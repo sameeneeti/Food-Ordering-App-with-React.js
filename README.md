@@ -41,7 +41,7 @@ so you can use it with any backend you want.
  1. ```Clone repository```
  
  ```
- git clone https://github.com/arturguimaraes/food-order-app-redux.git
+ git clone https://github.com/sameeksha-cloud/Food-Ordering-App-with-React.js.git
  ```
  
  2. ```Go to directory```
