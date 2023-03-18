@@ -6,7 +6,13 @@ It is a Single Page Application developed using ReactJS. The app enables you to 
 ![image](https://user-images.githubusercontent.com/65281223/226092425-be426165-f7d3-4c39-aab3-ea89cf5dd124.png)
 
 ## :movie_camera: Demo
-Click [here](https://food-order-app-with-reactjs.web.app) to go to the application.
+
+
+Click [here](https://food-order-app-with-reactjs.web.app/) to go to the application.👈:point_left:
+
+
+
+![application demo](/src/asset/video.gif)
 
 ## Implementation
 This project uses Create App tool , React Hook concepts, JavaScript ES6 and CSS.
